@@ -57,12 +57,12 @@
                                     <i class="flaticon-pricing"></i>
                                 </div>
                                 <div class="ft-featured-text headline pera-content">
-                                    <h3><a href="service-single.html">Honest Pricing</a></h3>
+                                    <h3><a href="#">Honest Pricing</a></h3>
                                     <p>
                                         Clear and upfront fees with no unexpected costs for smooth deliveries.
                                     </p>
                                     <div class="ft-btn-2">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <i class="icon-first flaticon-right-arrow"></i>
                                             <span>Find Out More</span>
                                         </a>
@@ -76,12 +76,12 @@
                                     <i class="flaticon-deadline"></i>
                                 </div>
                                 <div class="ft-featured-text headline pera-content">
-                                    <h3><a href="service-single.html">Instant Tracking</a></h3>
+                                    <h3><a href="#profile">Instant Tracking</a></h3>
                                     <p>
                                         Follow your package in real-time throughout its entire route.
                                     </p>
                                     <div class="ft-btn-2">
-                                        <a href="service-single.html">
+                                        <a href="#profile">
                                             <i class="icon-first flaticon-right-arrow"></i>
                                             <span>Find Out More</span>
                                         </a>
@@ -95,12 +95,12 @@
                                     <i class="flaticon-warehouse"></i>
                                 </div>
                                 <div class="ft-featured-text headline pera-content">
-                                    <h3><a href="service-single.html">Safe Storage</a></h3>
+                                    <h3><a href="#">Safe Storage</a></h3>
                                     <p>
                                         Reliable and protected warehousing facilities for your merchandise.
                                     </p>
                                     <div class="ft-btn-2">
-                                        <a href="service-single.html">
+                                        <a href="#">
                                             <i class="icon-first flaticon-right-arrow"></i>
                                             <span>Find Out More</span>
                                         </a>
